@@ -1,0 +1,39 @@
+#logo {
+    width: 70px;
+    height: 70px;
+    padding: 10px 10px;
+}
+
+#header_description {
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+}
+
+tr {
+    background-color: #c0c0c0;
+}
+
+table {
+    margin: 0 auto;
+}
+
+#content, #form_sign_up, #form_log_in {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#form_sign_up input {
+    display: block;
+    margin: 10px auto;
+}
+
+#form_sign_up, #form_log_in {
+    display: none;
+}
+
+#test {
+    background-color: blue;
+}
+
